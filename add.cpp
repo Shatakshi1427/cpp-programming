@@ -2,6 +2,9 @@
 using namespace std;
 int main()
 {
-    cout<<"hello world";
-    return 0;
+float a=3,b=5,c;
+c=a+b;
+cout<<"addition="<<c;
 }
+
+
